@@ -1,0 +1,1 @@
+ /Users/israel/Crafting/I/fo-nu-internals/.dart_tool/flutter_build/de5d453e37391422b3a943922d9570f4/native_assets.json: 
